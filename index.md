@@ -21,6 +21,6 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="gallery" type="center" index=random %}
 
-<a class="twitter-timeline" href="https://twitter.com/tonia_smirliadi?ref_src=twsrc%5Etfw">Tweets by tonia_smirliadi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-width="350" data-height="650" data-theme="Dark" href="https://twitter.com/tonia_smirliadi?ref_src=twsrc%5Etfw">Tweets by sofronia_f</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <div>
