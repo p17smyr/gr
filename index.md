@@ -21,8 +21,6 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="gallery" type="center" index=random %}
 
-  {% assign random = site.time | date: "%s%N" | modulo: site.case-study.size %}
-
-  {% include feature_col.html id="case-study" type="right" index=random %}
+<a class="twitter-timeline" href="https://twitter.com/tonia_smirliadi?ref_src=twsrc%5Etfw">Tweets by tonia_smirliadi</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <div>
