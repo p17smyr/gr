@@ -1,6 +1,6 @@
 ---
 author: p17smyr
-image_url: /images/matlab.png
+image_url: '/images/matlab.png'
 caption: 'Το MATLAB (matrix laboratory) είναι ένα περιβάλλον αριθμητικής υπολογιστικής και μια προγραμματιστική γλώσσα τέταρτης γενιάς.
 Αποθηκεύει και κάνει τις πράξεις με βάση την άλγεβρα μητρών.'
 title: matlab
